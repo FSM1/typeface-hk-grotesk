@@ -1,0 +1,15 @@
+{
+  "name": "typeface-hk-grotesk",
+  "version": "1.0.0",
+  "description": "HK-Grotesk Typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "hk-grotesk"
+  ],
+  "author": "Michael Yankelev <myankelev@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/FSM1/typeface-hk-grotesk"
+}

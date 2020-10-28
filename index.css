@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "HK-Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  src: local("HK-Grotesk Bold"), local("KH-Grotesk-Bold"),
+    url("./files/HKGrotesk-Bold.woff2") format("woff2"),
+    url("./files/HKGrotesk-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "HK-Grotesk";
+  font-style: normal;
+  font-weight: 500;
+  src: local("HK-Grotesk SemiBold"), local("HK-Grotesk-SemiBold"),
+    url("./files/HKGrotesk-SemiBold.woff2") format("woff2"),
+    url("./files/HKGrotesk-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: "HK-Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  src: local("HK-Grotesk"), local("HK-Grotesk"),
+    url("./files/HKGrotesk-Regular.woff2") format("woff2"),
+    url("./files/HKGrotesk-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "HK-Grotesk";
+  font-style: normal;
+  font-weight: 300;
+  src: local("HK-Grotesk Light"), local("HK-Grotesk-Light"),
+    url("./files/HKGrotesk-Light.woff2") format("woff2"),
+    url("./files/HKGrotesk-Light.woff") format("woff");
+}
