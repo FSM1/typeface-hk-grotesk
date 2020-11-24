@@ -1,4 +1,4 @@
-# typeface-montserrat-cyrillic
+# typeface-HK-Grotesk
 
 The CSS and web font files to easily self-host “HK Grotesk”.
 
