@@ -28,7 +28,7 @@ require("typeface-hk-grotesk");
 or
 
 ```javascript
-import("typeface-hk-grotesk");
+import "typeface-hk-grotesk";
 ```
 
 ## About the Typefaces project.
